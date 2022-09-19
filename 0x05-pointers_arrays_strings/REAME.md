@@ -1,0 +1,1 @@
+This is an alx pointers and strings project
